@@ -1,0 +1,27 @@
+'''print("Calcule de massa corporal IMC\n")
+peso = input("Insira seu peso em kg: ")
+altura = input("Insira sua altura em metros: ")
+
+imc = int(peso) / (float(altura) ** 2
+
+print ("Seu imc é : %f" %imc)'''
+
+'''import math
+print("Calcule a area da hipotenusa\n")
+quadrado1 = input("Insira o valor do quadrado 1: ")
+quadrado2 = input("Insira o valor do quadrado 2: ")
+
+soma = int(quadrado1) ** 2 + int(quadrado2) ** 2
+
+hipotenusa = math.sqrt(soma)
+
+print ("A area da hipotenusa é: %f" %hipotenusa)'''
+
+'''print("Calcule a area do trapezio\n")
+altura = input("valor da altura: ")
+baseCima = input("valor da abse de cima: ")
+baseBaixo = input("valor da base de baixo: ")
+
+area = (int(baseBaixo) + int(baseCima)) * int(altura) / 2
+
+print("O valor da area do trapezio é %f" %area)'''
